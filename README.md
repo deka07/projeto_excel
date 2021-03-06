@@ -19,6 +19,8 @@
 ### 🖥️ Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
 - [Python](www.python.org)
+- [Pandas](www.pandas.pydata.org/)
+- [Tkinter](www.tkinter.org)
 
 ### 🛠 Pré-requisitos
 #### 📚 Instale as dependências
