@@ -23,6 +23,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### 🛠 Pré-requisitos
 #### 📚 Instale as dependências
 $ pip install tkinter
+
 $ pip install pandas
 
 
